@@ -39,3 +39,20 @@ This project is a microcontroller-based data logger designed using KiCad. It use
 - UART header – Serial communication
 - I2C header – External peripherals
 - Power header – VCC and GND
+
+## Schematic Design
+<img width="1612" height="837" alt="Schematic" src="https://github.com/user-attachments/assets/b8282f83-7616-4c64-af3c-7b399cbdefe9" />
+
+## PCB Design
+### 2-Layer
+<img width="1326" height="787" alt="pcb" src="https://github.com/user-attachments/assets/90225b0d-a521-4c40-8389-ab6096937532" />
+
+### 4-Layer Design
+<img width="1417" height="790" alt="image" src="https://github.com/user-attachments/assets/99235515-0ef1-450a-9ec6-a5e671fdda7b" />
+
+## 3-D Model(2 Layer)
+<img width="1047" height="652" alt="image" src="https://github.com/user-attachments/assets/d7460f68-19e5-420c-ba6d-b9d2294a98dc" />
+
+
+
+
